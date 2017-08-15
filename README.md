@@ -8,7 +8,8 @@ Github有[网页版](https://github.com/) 和客户端（下载地址：https://
 3. 学习markdown的语法
 
 
-```function [ output_args ] = Untitled( input_args )
+```
+function [ output_args ] = Untitled( input_args )
 %UNTITLED Summary of this function goes here
 %Detailed explanation goes here 
  ```
